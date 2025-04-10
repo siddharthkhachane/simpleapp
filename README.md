@@ -1,4 +1,4 @@
-##About
+## About
 
 - This is how you host an app on vercel.
 - Both backend and frontend.
